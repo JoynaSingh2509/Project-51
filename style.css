@@ -1,0 +1,55 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    padding:5px;
+    font-size: 20px;
+    color:pink;
+    font-style: italic;
+}
+body{
+    margin:0px;
+    background-color: #f7f2f2
+    }
+
+.title{
+    color:#e2c0c0;
+    font-style: italic;
+    text-align: center;
+}
+h1{
+    position:absolute;
+    top:10%;
+    left:40%
+    
+}h2{
+    position:absolute;
+    top:20%;
+}
+    
+    .grid {
+   
+        border-radius: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:space-evenly;
+    }
+
+.origami {
+    
+    background-color: rgb(255, 255, 255);
+    padding:30px;
+    margin:25px;
+    width:400px;
+    }
+    h4{
+       text-align: center;
+       font-size: large;
+    }
+    
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    
